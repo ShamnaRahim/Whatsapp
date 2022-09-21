@@ -27,7 +27,7 @@ class _ChatListState extends State<ChatList> {
     User(
         avatar:
             "https://greatloveart.com/wp-content/uploads/2021/06/Best-whatsapp-dp-5.jpg",
-        name: "shamna",
+        name: "bilal",
         isGroup: false,
         updatedAt: '10:00 am',
         message: 'gud mrng'),
