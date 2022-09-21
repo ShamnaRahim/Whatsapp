@@ -17,7 +17,7 @@ class _ChatListState extends State<ChatList> {
         name: "Hafis",
         isGroup: false,
         updatedAt: '10:00 am',
-        message: 'gud mrng'),
+        message: 'good mrng'),
     User(
         avatar: "",
         name: "Naseeba",
